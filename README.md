@@ -71,7 +71,7 @@ pip install -e .
 
    # Auto-commit with the generated message
    gpt-commit --commit
-   ```l
+   ```
 
 ## 🔍 Options
 - `--backend`: Choose between 'openai' or 'ollama' (default: 'ollama')
