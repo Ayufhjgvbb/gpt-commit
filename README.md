@@ -1,6 +1,18 @@
-# gpt-commit
+<p align="center">
+  <img src="assets/logo.png" alt="gpt-commit logo" width="600" />
+</p>
 
-🚀 Automatically generate Git commit messages using GPT (OpenAI) or local models (Ollama).
+<h1 align="center">gpt-commit</h1>
+
+<p align="center">🚀 Automatically generate Git commit messages using GPT (OpenAI) or local models via Ollama.</p>
+
+<p align="center">
+  <a href="https://pypi.org/project/gpt-commit/"><img src="https://img.shields.io/pypi/v/gpt-commit" /></a>
+  <img src="https://img.shields.io/pypi/pyversions/gpt-commit" />
+  <img src="https://img.shields.io/github/license/puneetkakkar/gpt-commit" />
+  <img src="https://img.shields.io/github/stars/puneetkakkar/gpt-commit?style=social" />
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+</p>
 
 ## ✨ Features
 - Uses `git diff --cached` to summarize staged changes
